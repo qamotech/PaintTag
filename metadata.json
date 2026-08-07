@@ -1,0 +1,6 @@
+{
+  "name": "PaintTag",
+  "description": "A room paint and formula vault application for tracking paint formulas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
